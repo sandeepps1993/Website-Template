@@ -3,6 +3,7 @@ project:
   output-dir: docs
 website:
   title: "A Journey Within"
+  
   navbar:
     left:
       - href: index.qmd
@@ -33,7 +34,12 @@ website:
         url: https://orcid.org/<orcid-id>
       - text: "Google Scholar"
         url: https://scholar.google.com/citations?user=<google-scholar-user>
-  
+  announcement: 
+    icon: info-circle
+    dismissable: true
+    content: "**Alert** - This Website is created using `Quarto` and Published as Github Pages"
+    type: primary
+    position: below-navbar
 format:
   html:
     theme: cosmo

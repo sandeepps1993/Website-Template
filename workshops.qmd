@@ -1,0 +1,7 @@
+---
+title: "Workshops"
+---
+
+### 2024
+
+- `Advanced Tools for Literate Programming and Machine Learning`, August 6-7, 2024 

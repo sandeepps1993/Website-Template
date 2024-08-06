@@ -5,13 +5,8 @@ format:
   html:
     df-print: paged
     toc: true
-text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-  exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-  irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-  pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-  deserunt mollit anim id est laborum.
-title: Another blogpost example
-
+text: SAINTGITS
+ Saintgits College of Engineering, established in 2002 and located in Kottayam, Kerala, is a prominent institution affiliated with Mahatma Gandhi University. Renowned for its commitment to academic excellence and holistic development, the college offers a diverse array of undergraduate, postgraduate, and doctoral programs in engineering, management, and other fields. Accredited by bodies such as the NBA and NAAC, Saintgits boasts modern facilities, including well-equipped laboratories, a comprehensive library, and robust campus amenities. The college is also known for its strong emphasis on research, industry connections, and extracurricular activities, fostering a vibrant learning environment that prepares students for successful careers.
+title: CHICKEN BIRIYANI
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+To make a flavorful Chicken Biryani, start by marinating 1 kg of chicken pieces in a mixture of 1 cup yogurt, 2 tablespoons ginger-garlic paste, 1 tablespoon red chili powder, 1/2 teaspoon turmeric, 1 tablespoon biryani masala, 1 teaspoon garam masala, salt, and lemon juice, along with chopped coriander and mint leaves. Let it marinate for at least an hour. While marinating, prepare 2 cups basmati rice by rinsing and soaking it, then partially cook it in boiling water with cardamom, cloves, bay leaf, cinnamon stick, and salt. In a pan, heat oil or ghee, and cook sliced onions until golden brown, then add green chilies, ginger-garlic paste, and tomatoes until soft. Add the marinated chicken and cook until the oil separates. Layer the partially cooked rice over the chicken, sprinkle with biryani masala, and add more coriander and mint leaves. Drizzle with saffron milk if desired, cover tightly, and cook on low heat for 20-25 minutes to blend the flavors. Gently mix before serving and garnish with fried onions if you like. Enjoy your aromatic and delicious Chicken Biryani!
